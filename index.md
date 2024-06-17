@@ -1,3 +1,0 @@
-# VEB Offices
-
-## Projects
