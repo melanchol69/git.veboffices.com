@@ -1,1 +1,3 @@
-# git.veboffices.com
+# VEB Offices
+
+## Projects
