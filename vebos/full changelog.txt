@@ -1,0 +1,43 @@
+--------------------------------------------------
+VEB OS - As of June 27, 2024
+--------------------------------------------------
+
+Quick Description:
+The layout of VEB OS has been mostly setup and the
+range of new technologies to be used are been set.
+
+Added Features:
+Directory Tree: VEB OS will be using a properly
+branched tree in a more half way in between style.
+
+Runtime Library:
+The Runtime library will basically isolate
+programs into threads, the system will handle
+threads and video ram buffers to provide graphical
+multitasking. Not all programs have buffers and
+you can choose to free your programs buffers if
+you want them in the background. Or even add a
+buffer for a background program.
+
+Runtime Instances:
+The Runtime Instance Library is a build on the
+standard runtime library however it is the version
+used to handle user account sessions, each user is
+divided into their own instance, running under the
+core runtime, each instance is held with a header
+which allows users to switch as the instance will
+always replicate the state of the header, header
+runs, thread runs, header pauses, everything
+under the instance pauses, and dare to say a user
+forgot to logoff, don't worry, you can shutdown
+anyway but the session manager will give you a
+warning.
+
+Changed Features:
+VEB OS was originally going to be heavily based on
+security, however VEB OS should be a fun OS, not
+some full business os, thats boring. VEB OS will
+be for everyone, and will be heavily customizable.
+
+--------------------------------------------------
+June 27, 2024
