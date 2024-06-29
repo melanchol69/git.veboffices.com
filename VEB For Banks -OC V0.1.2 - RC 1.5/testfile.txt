@@ -1,0 +1,8 @@
+This file is used for the sake of copying, as it is always a good thing to
+make a testfile.txt and put a letter or anything in it u don't wanna save and
+then copy the files over to the opencomputers directory after exiting
+to main menu in minecraft. If the test file says this after reloading, then
+you have the official files
+
+Always get the files from https://github.com/melanchol69/VEB-For-Banks and
+nowhere else.

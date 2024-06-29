@@ -1,0 +1,13 @@
+--------------------------------------------------
+Options: You have the options of enabling security
+and setting your bank details. As well as other
+Options. 
+
+Bank Details:
+You can have your very own bankname set, which
+will in the future, be on many options. You also
+have the option of setting a security passcode in
+order to use the program. And last but not least,
+you have custom BSB's, for identifying account
+types. All of these options can be set by running
+the setup disk again and redoing the second setup.

@@ -1,0 +1,62 @@
+----------------------------------------
+Changelog - V0.0.1 - Alpha 1
+ + scripts
+ + files
+ + mok
+ + functionality
+
+ / Details:
+   Made the VEB For Banks Program
+----------------------------------------
+Changelog - V0.0.2 - Alpha 2
+ + new directories
+ + changelog
+ + transactions
+ . Verified that ¢ can be used
+ + Added Changelog command to welcome
+
+ / Details:
+   Changed Transactions to be more
+   comprehensive. New Account
+   Directory Structure to make indexing
+   even easier.
+   Changelog is now a command
+----------------------------------------
+Changelog - V0.1.0 - Rough Diamond
+ + program release system
+ + setup application
+ + CD Key's
+ + Official Beta
+ + Versions are now Named
+
+ / Details:
+   Created setup script for setting up
+   the program in the root directory.
+----------------------------------------
+Changelog - V0.1.1 - RC1
+ / Fixed newacc.lua - Not Delete option
+   causing error.
+ / Fixed accindex.txt - Extra Space on
+   first account.
+ + New Content to Setup File.
+ + New Transaction View Option
+ 
+ / Details:
+   Fixed small errors in newacc.lua,
+   fixed space in accindex.txt, and 
+   added new information to the setup/
+   files.
+----------------------------------------
+Changelog - V0.1.2 - RC1.5
+ / Changed all io options to return a
+   response with a single entry.
+ / Changed functions.lua to have an
+   error when an unrecognised function
+   is used.
+ / Changed other scripts to have an
+   incorrect options parameter, not all
+   scripts though.
+ + New Database Wiper function on setup
+   disk. Insert Disk and type banking
+   and enter #admin at functions. WIP!
+----------------------------------------
