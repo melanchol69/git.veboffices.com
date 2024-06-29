@@ -1,0 +1,12 @@
+--------------------------------------------------
+Installer Application: The Installer Application
+makes installing the program easy, it will guide
+you through setting up VEB For Banks and it will
+have everything ready for you by the end. If there
+are any issues with installing, you should leave
+an issue report on the Repository.
+
+You can find the CD Key exactly where you
+downloaded the Program from, you will require
+this CD Key to install the program, this is for
+security purposes.

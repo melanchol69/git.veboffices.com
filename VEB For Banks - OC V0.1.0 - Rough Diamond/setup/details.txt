@@ -1,0 +1,14 @@
+--------------------------------------------------
+VEB For Banks - V0.1.0 - Rough Diamond Setup
+--------------------------------------------------
+VEB For Banks comes in 3 different types, the type
+on the disk will be displayed further into the
+setup! You will require the CD Key which can be
+found on the website that you have gotten the
+files from. It is recommended to use a Tier 2
+screen for easier reading and function, however,
+this program should be compatible with Tier 1
+components. Nothing is promised as of now, and
+this is the first edition disk. If you wish, you
+may edit this program but you may not redistribute
+it. Thank you for using VEB For Banks!

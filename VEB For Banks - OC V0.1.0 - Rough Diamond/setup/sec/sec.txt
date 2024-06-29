@@ -1,0 +1,10 @@
+--------------------------------------------------
+This program comes with the option for security,
+there is a passcode option in the setup which
+allows you to set a passcode on the program for it
+to run. This defaults to off for functionality,
+after all, you don't want the program to fail
+because you don't know the passcode. If you wish
+for further security measures, there will be a
+new version of VEB For Banks that supports data
+cards and can encrypt files.
