@@ -1,0 +1,70 @@
+--------------------------------------------------
+VEB For Banks- Banking Client - Changelog
+--------------------------------------------------
+
+V0.2.1 - Warp A2
+--------------------------------------------------
+In Warp A2, we are rewriting the banking.lua
+script to further improve loading and saving banks
+from specified locations.
+
+Changes:
++ Added account.lua - replacing newacc.lua and
+  transaction.lua.
+  
+~ Changed Versions
+- Accounts will no longer be in the bank database
+  due to storage and memory concerns.
+--------------------------------------------------
+June 30th, 2024
+
+V0.2.0 - Warp A
+--------------------------------------------------
+In Warp A, we are taking the original program and
+making it into a versatile and graphical program
+that can run properly and operate endlessly.
+
+Changes:
+- Removed original directory structure
+- Removed original programs
+
+~ Changed Versions
+- Banking - Original banking version is now
+  unsupported
++ Bankserver - Server version of VEB for Banks
++ Banking Client - Client program with server
+  capabilities
++ Banking Personal - A lightweight program for
+  managing personal accounts and finances.
+  However is practically useless.
+
++ Added banking.lua - Replacement for welcome.lua
++ Added changelog.lua - Graphically read through
+  changelogs.
+
++ Added console.lua - A text based debug console.
++ Added banknet.lua - A network banking handshaker
+  for bankservers
+  
++ Added activator.lua - A function to install a
+  product certificate and mark the program as
+  genuine.
+
++ Added lwcs.lua - Lightweight Certificate
+  Services.
+
++ Added lwns.lua - Lightweight Network Services.
++ Added dirfile.bsl - A directory table for all
+  related programs. Allowing the program to be
+  stored and run from anywhere.
+
++ Added makeCert.lua - Creates a product
+  certificate for developer editions. Other
+  editions will require either VEB KMS or VEB
+  Retail or OEM product certificates. (All of
+  which can be generated with makeCert.lua.
+  
+~ Changed VEB For Banks Repository to VEB Offices
+  Repository.
+--------------------------------------------------
+June 29th, 2024
